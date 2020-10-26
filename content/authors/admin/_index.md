@@ -20,8 +20,8 @@ social:
     icon_pack: ai
     icon: github
   - link: files/cv.pdf
-  	icon_pack: ai
-  	icon: cv
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: KAIST
 education:
