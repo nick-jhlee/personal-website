@@ -10,15 +10,18 @@ interests:
   - Related mathematical theories (probability theory, statistics, optimization)
   - Discrete Mathematics
 social:
-  - icon_pack: ai
+  - link: https://scholar.google.com/citations?user=sYtSnnQAAAAJ&hl=en
+    icon_pack: ai
     icon: google-scholar
-    link: https://scholar.google.com/citations?user=sYtSnnQAAAAJ&hl=en
+
   - link: https://linkedin.com/in/junghyun-lee-89799a197
+    icon_pack: fab
     icon: linkedin
-    icon_pack: ai
+
   - link: https://github.com/nick-jhlee
-    icon_pack: ai
+    icon_pack: fab
     icon: github
+
   - link: files/cv.pdf
     icon_pack: ai
     icon: cv
