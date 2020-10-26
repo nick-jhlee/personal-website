@@ -7,7 +7,7 @@ bio: Pursuing BSc in Math and CS at KAIST. Interested in machine learning, deep
 interests:
   - Machine Learning
   - Deep Learning
-  - Related mathematical theories (probability theory, statistics, optimization)
+  - Related mathematical theories
   - Discrete Mathematics
 social:
   - link: https://scholar.google.com/citations?user=sYtSnnQAAAAJ&hl=en
