@@ -1,0 +1,511 @@
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                             Curriculum Vitae                               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[10pt,a4]{article}
+\topmargin-2.0cm
+\advance\oddsidemargin-1.2cm
+\advance\evensidemargin-1.2cm
+\textheight9.22in
+\textwidth6.4in
+\newcommand\bb[1]{\mbox{\em #1}}
+%\def\baselinestretch{1.25}
+\def\baselinestretch{1.0}
+
+\usepackage{multicol}
+% The use of the times package forces the use of the type-1 times
+% roman font, but the times roman font does not look nice.
+% Besides the times roman font still does not print correctly on
+% the dopy printer.
+%\usepackage{times}
+
+\usepackage{fancyhdr}
+\usepackage{origpagecounting}
+\usepackage[dvips]{color}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{soul}
+
+\newcounter{myEnumCounter}
+\newcounter{mySaveCounter}
+\renewenvironment{enumerate}{%
+  \begin{list}{\arabic{myEnumCounter}.}{\usecounter{myEnumCounter}%
+  \setcounter{myEnumCounter}{\value{mySaveCounter}}}
+  }{%
+  \setcounter{mySaveCounter}{\value{myEnumCounter}}\end{list}%
+}
+\newcommand\myEnumReset{\setcounter{mySaveCounter}{0}}
+
+% The old enumerate environment is rewritten, so you need no special command to
+% start continuing counting. With the command \myEnumReset you can Reset the couter
+% at any place in the text.
+
+% http://www.educat.hu-berlin.de/~voss/lyx/list/enum.phtml
+
+\definecolor{gray}{rgb}{0.4,0.4,0.4}
+
+\begin{document}
+
+%\thispagestyle{empty}
+%\pagestyle{plain}
+
+\thispagestyle{fancy}
+%\pagenumbering{gobble}
+%\fancyhead[location]{text}
+% Leave Left and Right Header empty.
+\lhead{\textcolor{gray}{\it Junghyun Lee}}
+%\rhead{\textcolor{gray}{\thepage/\totalpages{}}}
+%\rhead{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize \textcolor{gray}{}}
+%A copy of this curriculum vitae, publications and 
+%talk slides are available for download at
+%http://www.stanford.edu/$\sim$sundaes/application}}
+
+
+%\pagestyle{myheadings}
+%\markboth{Sundar Iyer}{Sundar Iyer}
+
+\vspace*{0.4cm}
+\begin{center}
+{\huge \bf Junghyun Lee}
+\vspace*{0.25cm}
+\end{center}
+
+\begin{small}
+
+%===================================
+\begin{tabbing}
+\=xxxxxxxx\=xxxxxxxx\=xxxxxxxx\=\kill
+\begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}
+
+291 Daehak-ro & Phone: (+82)10 5819-2684 \\
+Yuseong-gu, Daejeon 34141 &  Email: jh\_lee00 (AT) kaist.ac.kr \\
+%https://sites.google.com/view/junghyunlee
+ & Alt: nick.jhlee00 (AT) gmail.com \\
+ Github: \url{https://github.com/nick-jhlee}
+ & Personal website: \url{https://nick-jhlee.netlify.app/}
+\end{tabular*}
+\end{tabbing}
+
+\vspace*{0.2cm}
+
+
+%==========================================
+%\vspace{0.20cm}
+
+\subsection*{PARTICULARS}
+
+%{\color{DarkSeaGreen}} \hrule
+\hrule
+\vspace{0.2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection*{EDUCATION}
+%\vspace{0.2cm}
+
+%\begin{tabbing}
+%xxxxxxxx\=xxxxxxxx\=xxxxxxxx\=xxxxxxxx\=\kill
+%\>{\bf Academic record}\\[.7em]
+
+%\>\begin{tabular}{|l|l|l|}
+%\hline
+%Certificate	&	Place of study	&	Year\\
+%\hline
+%Ph. D. in Computer Sc.  & Stanford University     & {\it 2000-, Defended 2003} \\
+%\hline
+%M. S. in Computer Sc. & Stanford University     & {\it June 2000} \\
+%\hline
+%B. Tech in Computer Sc. and Engg. & I.I.T. Bombay  &	{\it April 1998} \\
+%\hline
+%\end{tabular}
+%\end{tabbing}
+
+%xxxx\=xxxxxxxx\=xxxxxxxx\=xxxxxxxx\=\kill
+
+\begin{tabbing}
+xxxx\=xxxxxxxx\=xxxxxxxx\=xxxxxxxx\=\kill
+%\>\begin{tabular*}{6.1in}{lr}
+
+\>\begin{tabular*}{0.9\linewidth}{l@{\extracolsep{\fill}}r}
+Korea Advanced Institute of Science and Technology (KAIST) & Daejeon, ROK \\
+BSc in Mathematical Sciences, Computer Science({\it Double Major}) & {\it September 2021 (expected)}\\
+%Academic advisor: Prof. Soonsik Kwon, Department of Mathematical Sciences \\
+%{\it Cumulative GPA: 3.75 / 4.3 (up to 6th semester)} \\
+%{\it Cumulative GPA: 3.80 / 4.3, Major GPA: 3.71 / 4.3 (up to 7th semester)} \\
+ & \\
+ 
+Changwon Science High School (CSHS) & Changwon, ROK \\
+{\it Early graduation} & {\it March 2017}
+\end{tabular*}
+\end{tabbing}
+
+\subsubsection*{CURRENT STATUS}
+\begin{list}{}{}
+\item Citizen of Republic of Korea (ROK).
+\end{list}
+
+\subsubsection*{ACADEMIC INTERESTS}
+%\hrule
+%\vspace{0.2cm}
+
+\begin{itemize}{}{}
+\item Machine Learning
+
+\item Deep Learning
+
+\item Related mathematical theories (e.g. Probability Theory, Optimization, Statistics)
+
+\item Discrete Mathematics (Graph Theory, Algorithms, Combinatorics, Discrete Geometry)
+\end{itemize}
+%\vspace{0.1cm}
+%
+%\newpage
+%\pagestyle{fancy}
+%\lhead{\textcolor{gray}{\it Junghyun Lee}}
+%%\rhead{\textcolor{gray}{\thepage/\totalpages{}}}
+%\fancyfoot[C]{}
+%\subsubsection*{RELEVANT COURSEWORK}
+%
+%\vspace{0.2cm}
+%
+%\begin{tabularx}{\linewidth}{ @{} X X @{} }
+%	{\bf Dept. of Mathematical Sciences}
+%  \begin{itemize}
+%	\item Analysis I/II
+%	\item Complex Function Theory$^{(*)}$
+%	\item Linear Algebra
+%	\item Modern Algebra I
+%	\item Topology
+%	\item Mathematical Statistics
+%%	\item Advanced Statistics$^{(**)}$
+%%	\item Elementary Probability Theory$^{(**)}$
+%%	\item Lebesgue Integral Theory
+%%	\item Random Matrix Theory and Its Application$^{\#, (*)}$
+%	\item Introduction to Numerical Analysis
+%%	\item Numerical Analysis
+%	\item Discrete Mathematics
+%	\item Discrete Geometry
+%	\item Topological Methods in Combinatorics
+%	\item Matroid Theory
+%%	\item Probabilistic Methods
+%	\item (Enumerative) Combinatorics$^{(*), (**)}$
+%	\item Introduction to Mathematical Biology
+%  \end{itemize} &
+%	
+%	{\bf School of Computing}
+%  \begin{itemize}
+%	\item Machine Learning
+%	\item Introduction to Artificial Intelligence
+%	\item Data Structures
+%	\item Introduction to Algorithms
+%	\item Design and Analysis of Algorithm$^{(*)}$
+%	\item Programming Languages
+%	\item Introduction to Logic for Computer Science
+%  \end{itemize}
+%\end{tabularx}
+%
+%\begin{tabularx}{\linewidth}{ @{} X X @{} }
+%	{\bf Dept. of Electrical Engineering}
+%  \begin{itemize}
+%	\item Statistical Learning Theory$^{(*)}$
+%  \end{itemize} &
+%	
+%	{\bf Dept. of Physics}
+%  \begin{itemize}
+%	\item Physical Mathematics I
+%  \end{itemize}
+%\end{tabularx}
+%
+%
+%(*: graduate-level course)
+%(**: audited course)
+%(\#: currently registered)
+
+
+\subsection*{ACADEMIC HONORS}
+\hrule
+\vspace{0.2cm}
+\begin{itemize}
+%==================
+
+\item Spring Semester Freshmen Dean's List, 2017.
+
+\end{itemize}
+
+\pagestyle{fancy}
+\lhead{\textcolor{gray}{\it Junghyun Lee}}
+%\rhead{\textcolor{gray}{\thepage/\totalpages{}}}
+\fancyfoot[C]{}
+
+%\subsection*{PROJECTS}
+%\hrule
+%\vspace{0.2cm}
+%\begin{itemize}
+%
+%\item {\bf [With Youngjin Jin, Minsung Park, Hyunjin Kim] CS376: Machine Learning}, Fall Semester, 2018. \\
+% Built a predictive model for given set of (training) data. (cf. Gotham city's apartment prices) 
+%% Given a large set of training data, a model was made to predict the apartment prices.
+%
+%\item {\bf [With Youngjin Jin, Minsung Park] CS470: Introduction to Artificial Intelligence}, Fall Semester, 2019. \\
+% Implemented a model to solve music genre classification problem.
+%% Implemented the {\it Spherical CNN} as proposed by Cohen \& Welling and applied it to a different dataset. {\bf to be updated...}
+%
+%\item {\bf [Alone] CS300: Introduction to Algorithms}, Spring Semester, 2018. \\
+% Implement a solver for the game 'Bloxorz'.
+%
+%\item {\bf [With Seokmin Ha] MAS480(B): Introduction to Mathematical Biology}, Fall Semester, 2018. \\
+% (See below for details)
+%
+%\item {\bf [With Hyunjin Kim] CS330: Operating Systems and Lab}, Spring Semester, 2019. \\
+% Built Pintos: a small operating system.
+% 
+%\end{itemize}
+
+
+%\vspace{0.1cm}
+
+\subsection*{RESEARCH EXPERIENCE}
+\hrule
+\vspace{0.2cm}
+\begin{itemize}
+  
+ \item {\bf [With Cheolhyeong Lee$^{**}$] Undergrad Research: OSI Lab}, Spring 2020 - Present. \\
+ {\bf Supervisor:} Prof. Se-Young Yun (Graduate School of AI, KAIST) \\
+ {\bf Research topic:} {\it Toward a Better Understanding of Dynamics of SGD } \\
+ ($**$ PhD student advised by Prof. Wanmo Kang at Dept. of Mathematical Sciences, KAIST)\\
+
+  \item {\bf [Alone] Undergrad Research:
+	% 	 Artificial Intelligence \& Machine Learning Lab}
+	AIM Laboratory}, Summer 2020 - Present. \\
+{\bf Supervisor:} Prof. Chang Dong Yoo, Prof. Gwangsu Kim (Dept. of Electrical Engineering, KAIST) \\
+{\bf Research topic:} {\it Fair Graph Analysis (TBD) } \\
+
+ \item {\bf [With Matt Olfat$^{*}$] Undergrad Research:
+% 	 Artificial Intelligence \& Machine Learning Lab}
+  AIM Laboratory}, Winter 2019 - Present. \\
+ {\bf Supervisor:} Prof. Chang Dong Yoo, Prof. Gwangsu Kim (Dept. of Electrical Engineering, KAIST) \\
+ {\bf Research topic:} {\it Fair Sparse PCA } \\
+ ($*$ Citadel)\\
+
+ \item {\bf [Alone] Individual Study}, Summer 2019 - Fall 2019. \\
+ {\bf Supervisor:} Prof. Andreas Holmsen (Dept. of Mathematical Sciences, KAIST) \\
+ {\bf \st{Research} Seminar topic 1:} {\it Asymptotics for the number of $C_4$'s in a graph under certain condition}, \\
+ {\bf \st{Research} Seminar topic 2:} {\it Maximum number of columns in a 0-1 $2n \times n$ matrix with no induced $2 \times 2$ identity matrix} \\
+
+
+ \item {\bf [With Seokmin Ha] MAS480(B): Introduction to Mathematical Biology}, Fall 2018. \\
+ {\bf Supervisor:} Prof. Jaekyung Kim (Dept. of Mathematical Sciences, KAIST) \\
+ {\bf Research topic:} {\it Reverse Analysis Problem of Two-gene System in the
+Perspective of Adaptation} \\
+% {\bf Abstract:} In this work, we consider a reverse analysis problem regarding two-gene system. Using the mixed-integer dynamic optimization framework that has been presented in previous works, we extend the research of finding the design principles of three-gene system in perspective of adaptability to two-gene system. 
+% We show that the negative of amplitude and area of response are in a weak trade-off relation by computing the Pareto front for those two objective functions. We also find that the majority of the Pareto optimal circuits have the common structure of amplified negative feedback topology.
+% Lastly, we deduce that the conditions for a two-gene system to achieve perfect adaptation is to have the characteristics of high sensitivity and low speed.
+
+\item {\bf CSHS Mathematics Research and Education Program (R\&E)}, Mar 2015 - Feb 2017. \\
+ {\bf Supervisor:} Mr. Seungkyun Cha (Mathematics Department, CSHS), Prof. Jisoo Byun (Dept. of Mathematics Education, Kyungnam University) \\
+ {\bf Research topic:} {\it Some Loci in the Animation of a Sangaku Diagram} \\
+% {\bf Abstract:} In a symmetric partition of a regular n-gon into n congruent subtriangles and a regular n-gon in the center, we determine the loci of the incenter and points of tangency of the incircle a subtriangle.
+ 
+\end{itemize}
+
+% List of papers and publications and patents ?
+%===========================================
+%\vspace{0.1cm}
+\subsection*{PUBLICATIONS}
+\hrule
+\vspace{0.2cm}
+
+\subsubsection*{PAPERS}
+
+\begin{enumerate}
+    \item 
+\textbf{Junghyun Lee}, Minyoung Hwang, Cheolwon Bae
+``Some Loci in the Animation of a Sangaku Diagram",
+{\it Forum Geometricorum}, 2016, vol. 16, pp. 187-191.
+\end{enumerate}
+
+\myEnumReset
+\subsubsection*{PREPRINTS}
+\begin{enumerate}
+	\item (to be filled in...)
+\end{enumerate}
+	
+\myEnumReset
+\subsubsection*{WORKING/PENDING PAPERS}
+\begin{enumerate}
+	\item (to be filled in...)
+\end{enumerate}
+
+\myEnumReset
+%\subsubsection*{PENDING PAPERS}
+%\begin{enumerate}
+%
+%%    \item 
+%%``Fair Sparse PCA using Sequential SDPs with Relaxed Orthogonality Constraint", with Gwangsu Kim, Chang Dong Yoo. In preparation for {\it ICML 2020}.
+%
+%\end{enumerate}
+
+\myEnumReset 
+
+
+%\subsubsection*{PENDING PAPERS}
+%\begin{enumerate}
+%    \item 
+%``Reverse Analysis Problem of Two-gene System in the Perspective of Adaptation", with Seokmin Ha.
+%In preparation.
+%\end{enumerate}
+
+% This resets the counter for the enumerate environment.
+%\myEnumReset 
+
+
+
+%\vspace{0.1cm}
+\subsection*{TEACHING EXPERIENCE}
+\hrule
+\vspace{0.2cm}
+
+\subsubsection*{TEACHING ASSISTANT}
+\begin{itemize}
+
+% \item {\bf TCIS-KAIST Winter Science Camp}, Taejon Christian International School \& KAIST Global Institute for Talented Education, Winter 2018, KAIST. \\
+% (description)
+
+\item {\bf HSS302: Special Lectures on Linguistics \textless Language Register and English\textgreater}, Prof. Seonmin Park, Spring 2018, KAIST.
+%(description)
+
+\item {\bf English Camp for Incoming Freshmen}, EFL Office, Jan 2019, KAIST.
+%(description)
+
+\item {\bf English Camp for Incoming Freshmen}, EFL Office, Jan 2018, KAIST.
+%(description)
+
+\end{itemize}
+
+\subsubsection*{FRESHMEN TUTORING}
+\begin{itemize}
+
+\item {\bf MAS102: Calculus 2}, Fall 2018, KAIST.
+
+\item {\bf MAS101: Calculus 1}, Spring 2018, KAIST.
+
+\end{itemize}
+
+\subsubsection*{UNOFFICIAL/VOLUNTARY TUTORING}
+\begin{itemize}
+
+\item {\bf MAS102, PH142, MAS109}, Fall 2017, KAIST. \\
+with 10$\sim$15 freshmen taking the courses
+
+\item {\bf MAS101, PH141, CH101, MAS109}, Spring 2017, KAIST. \\
+with 10$\sim$15 freshmen taking the courses
+%\item {\bf MAS212}, Spring 2019, KAIST. \\
+%with 3$\sim$4 students taking the courses
+
+
+\end{itemize}
+
+
+%\subsection*{PROFESSIONAL ACTIVITIES}
+%\hrule
+%\vspace{0.2cm}
+
+%\subsubsection*{PARTICIPANT OF TSUKUBA SCIENCE EDGE}
+%(description)
+%Tsukuba, Japan, 2016.
+
+%\subsubsection*{PARTICIPANT OF ICISTS-2018}
+%(description)
+
+%\subsubsection*{THE-KAIST INNOVATION \& IMPACT SUMMIT STUDENT AMBASSADOR}
+%(description)KAIST, 2019
+%\vspace{0.1cm}
+
+
+\lhead{\textcolor{gray}{\it Junghyun Lee}}
+%\rhead{\textcolor{gray}{\thepage/\totalpages{}}}
+\fancyfoot[C]{}
+
+\subsection*{SKILLS}
+\hrule
+\vspace{0.2cm}
+
+\subsubsection*{Computer Skills}
+
+\begin{itemize}
+	\item Languages: \textbf{Python,
+%	C,
+%	Java,
+%	Kotlin,
+%	Scala
+	}
+	\item Applications : \textbf{Matlab,
+%	 Mathematica,
+	 LaTex}
+\end{itemize}
+
+\subsubsection*{LANGUAGE}
+
+\begin{itemize}{}{}
+	\item \textbf{Korean}: Native
+	\item \textbf{English}: Native \\
+%	Lived in the United States (Feb. 2010 $\sim$ Feb. 2014) \\
+	Mock TOEFL iBT 118 (2017)
+	
+\end{itemize}
+
+\vspace{0.1cm}
+
+\subsection*{EXTRACURRICULAR ACTIVITIES}
+\hrule
+\vspace{0.2cm}
+
+\subsubsection*{KAIST ORCHESTRA}
+\begin{itemize}
+	\item First Violinist, Mar 2017 - Present.
+	
+	\item {\bf Principal First Violinist}, Jan 2018 - Dec 2018.
+	
+%	\item Concertmaster, Jan 2020 - Dec 2020.
+\end{itemize}
+
+\subsubsection*{ICISTS}
+\begin{itemize}
+	\item Division of Global Partnership, Sep 2018 - Aug 2019.
+	
+	\item {\bf TF leader} of {\it Opening/Gala Night} (ICISTS-2019)
+	
+	\item TF member of {\it Science in a Nutshell} (ICISTS-2019)
+	
+	\item {\bf Vice President}, Sep 2019 - Jul 2020.
+	
+%	\item {\bf TF leader} of {\it TED}x{\it KAIST}, Oct 2019 - Apr 2020
+	
+\end{itemize}
+
+%\subsubsection*{TEDxKAIST}
+%\begin{itemize}
+%	\item {\bf Team Leader} of {\it TED}x{\it KAIST}, Oct 2019 - Present.
+%	
+%\end{itemize}
+
+\subsubsection*{KAIST Mathematical Sciences Student Council}
+\begin{itemize}
+	\item Member of department student council, Mar 2018 - Present.
+	
+	\item In charge of {\it Mathematical Sciences Help-Desk} (Mar 2018 - June 2019) \\
+	A short lecture series (given by selected math undergrad.) that takes place a week before the exam period to help all students with Basic Elective courses. (MAS109, MAS201, MAS250)
+\end{itemize}
+
+\newpage
+\pagestyle{fancy}
+\lhead{\textcolor{gray}{\it Junghyun Lee}}
+%\rhead{\textcolor{gray}{\thepage/\totalpages{}}}
+\fancyfoot[C]{}
+
+%anything else?
+
+\end{small}
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
