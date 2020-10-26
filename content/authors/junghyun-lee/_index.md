@@ -4,7 +4,13 @@ role: Undergraduate Researcher
 avatar_filename: profile-pic-1.jpg
 bio: Pursuing BSc in Math and CS at KAIST. Interested in machine learning, deep
   learning, and related mathematical theories.
-interests: []
+interests:
+  - Machine Learning
+  - Deep Learning
+  - Related mathematical theories (probability theory
+  - statistics
+  - optimization)
+  - Discrete Mathematics
 social:
   - icon_pack: ai
     icon: google-scholar
