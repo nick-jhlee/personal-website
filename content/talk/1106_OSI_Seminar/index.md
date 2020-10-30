@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: This talk introduces a rather new approach to analyzing SGD, from the perspective of heavy-tail behaviors.
-abstract: Part 1 was about introducing reasons of why heavy-tailed model should be used to describe the SGD dynamics. This talk(Part 2) gives a from-ground talk on necessary mathematical background, and as the title suggests, how Hausdorff dimension is directly related to the generalization capability, when the behavior of SGD is described using Feller process. On the way, various papers (ICML2019, ICML2020, NIPS2020, arXiv) will be briefly mentioned.
+summary: This talk continues from Part 1, introducing the most recent works on the heavy-tailed theories of SGD dynamics.
+abstract: Part 1 was about introducing reasons of why heavy-tailed model should be used to describe the SGD dynamics. This talk(Part 2) gives a from-ground talk on necessary mathematical background, and most importantly, **where the heavy-tailedness comes from.** If time allows, we shall also look at how Hausdorff dimension of the path of SGD is directly related to the generalization capability, where the behavior of SGD is described using Feller process. On the way, various papers (ICML2019, ICML2020, NIPS2020, arXiv) will be briefly introduced.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,6 +68,6 @@ projects: ["sgd-behavior"]
 ---
 
 Papers discussed in the talk:
-- **Main:** Şimşekli, U., Sener, O., Deligiannidis, G., Erdogdu, M. A. Hausdorff Dimension, Stochastic Differential Equations, and Generalization in Neural Networks. In *NIPS*, 2020. (*Spotlight paper!*)
+- **Main"** Gürbüzbalaban, M., Şimşekli, U., Zhu, L. The Heavy-Tail Phenomenon in SGD. In *arXiv*, 2020.
+- **Sub-main:** Şimşekli, U., Sener, O., Deligiannidis, G., Erdogdu, M. A. Hausdorff Dimension, Stochastic Differential Equations, and Generalization in Neural Networks. In *NIPS*, 2020. (*Spotlight paper!*)
 - Şimşekli, U., Gürbüzbalaban, M., Nguyen, T. H., Richard, G., Sagun, L. On the Heavy-Tailed Theory of Stochastic Gradient Descent for Deep Neural Networks. In *arXiv*, 2019.
-- Gürbüzbalaban, M., Şimşekli, U., Zhu, L. The Heavy-Tail Phenomenon in SGD. In *arXiv*, 2020.
