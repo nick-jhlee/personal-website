@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["SGD", "SDE", "heavy-tail", "Lévy process"]
+tags: ["Stochastic Optimization", "SGD", "SDE", "heavy-tail", "Lévy process"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -64,7 +64,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["sgd-behavior"]
+projects: ["practical-deep-learning"]
 ---
 
 Papers discussed in the talk:
