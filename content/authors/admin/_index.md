@@ -9,7 +9,7 @@ interests:
   - Deep learning
   - Related mathematical theories
   - Various applications of ML/DL
-  - "Other" mathematics (e.g. graph theory)
+  - Other fields of mathematics (e.g. graph theory)
 social:
   - link: https://scholar.google.com/citations?user=sYtSnnQAAAAJ&hl=en
     icon_pack: ai
