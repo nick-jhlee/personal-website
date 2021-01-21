@@ -2,7 +2,7 @@
 title: Junghyun Lee
 role: Undergraduate Researcher
 avatar_filename: profile-pic-1.jpg
-bio: Pursuing BS in Mathematics&CS at KAIST. Interested in machine learning, deep
+bio: Pursuing BS in Math/CS at KAIST. Interested in machine learning, deep
   learning, and related mathematical theories.
 interests:
   - (Statistical) Machine learning
@@ -34,9 +34,6 @@ organizations:
   - name: KAIST
 education:
   courses:
-<!--     - course: MS in Graduate School of AI
-      institution: Korea Advanced Institute of Science and Technology
-      year: 2023 -->
     - course: BS in Mathematical Sciences and Computer Science
       institution: Korea Advanced Institute of Science and Technology
       year: 2021
