@@ -68,6 +68,6 @@ projects: ["practical-deep-learning"]
 ---
 
 Papers discussed in the talk:
-- **Main"** Gürbüzbalaban, M., Şimşekli, U., Zhu, L. The Heavy-Tail Phenomenon in SGD. In *arXiv*, 2020.
+- **Main:** Gürbüzbalaban, M., Şimşekli, U., Zhu, L. The Heavy-Tail Phenomenon in SGD. In *arXiv*, 2020.
 - **Sub-main:** Şimşekli, U., Sener, O., Deligiannidis, G., Erdogdu, M. A. Hausdorff Dimension, Stochastic Differential Equations, and Generalization in Neural Networks. In *NIPS*, 2020. (*Spotlight paper!*)
 - Şimşekli, U., Gürbüzbalaban, M., Nguyen, T. H., Richard, G., Sagun, L. On the Heavy-Tailed Theory of Stochastic Gradient Descent for Deep Neural Networks. In *arXiv*, 2019.
