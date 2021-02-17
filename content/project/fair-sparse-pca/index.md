@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fair PCA via optimization over Stiefel manifold"
-summary: "Develop a fair variant of (sparse) PCA in the context of Olfat&Aswani(2019) via constrained optimization over Stiefel manifold"
+summary: "A novel Stiefel manifold optimization based algorithm for fair PCA (Olfat&Aswani, 2019)"
 authors: ["admin"]
 tags: ["Machine Learning", "Fairness", "PCA", "Manifold Optimization"]
 categories: ["project"]

@@ -89,7 +89,8 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jh_lee00@kaist.ac.kr"
-phone = "+82-10-5819-2684"
+phone = ""
+# phone = "+82-10-5819-2684"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )

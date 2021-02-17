@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Towrads a practical theory of deep learning"
+title: "Connection between Optimization and the Deep Learning"
 summary: "Build a theory of explaining the (learning) dynamics of DNNs and related optimization algorithms, and show its practical implications"
 authors: ["admin"]
-tags: ["Deep Learning", "Stochastic Optimization", "Probability Theory"]
+tags: ["Deep Learning", "Generalization", "Stochastic Optimization", "Probability Theory"]
 categories: ["project"]
 date: 2020-10-27T01:23:49+09:00
 
@@ -41,3 +41,4 @@ slides: ""
 ---
 
 (To be filled in...)
+
