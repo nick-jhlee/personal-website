@@ -46,5 +46,4 @@ I’m a undergraduate researcher at KAIST, pursuing BS in mathematical sciences 
 Currently, I'm part of three research groups in KAIST: Prof. [Se-Young Yun](https://fbsqkd.github.io/)'s [OSI Lab](http://osi.kaist.ac.kr/), Prof. Chang Dong Yoo's [AIM Lab](https://slsp.kaist.ac.kr/xe/) with Prof. Gwangsu Kim, and Prof. Shin Yoo's [COINSE Lab](https://coinse.kaist.ac.kr/).
 
 I'm currently a first violinist at the KAIST Orchestra, where my passion for classical music is freely expressed.
-
-When my life feels very complicated, I play Overwatch ;)
+<!-- When my life feels very complicated, I play FPS games such as Call of Duty, Overwatch ;) -->
