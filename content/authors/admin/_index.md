@@ -5,9 +5,9 @@ avatar_filename: profile-pic-1.jpg
 bio: Pursuing BS in Math/CS at KAIST. Interested in machine learning, deep
   learning, and related mathematical theories.
 interests:
-  - (Theoretical) Machine/Deep learning
+  - (Theoretical) ML/DL
   - Related mathematical theories
-  - Graphs, GNN, Analysis of large networks
+  - GNN, Graphs
   - Various applications of ML/DL
   - Fairness
   - Other fields of mathematics (e.g. graph theory)
