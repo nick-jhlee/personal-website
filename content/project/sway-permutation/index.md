@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Connection between Optimization and the Deep Learning"
-summary: "Build a theory of explaining the (learning) dynamics of DNNs and related optimization algorithms, and show its practical implications"
+title: "SWAY for Space of Permutations"
+summary: "Extend SWAY (Chen et al., 2016) to the space of permutations and test its efficacy on TCP."
 authors: ["admin"]
-tags: ["Deep Learning", "Generalization", "Stochastic Optimization", "Probability Theory"]
+tags: ["SBSE", "SWAY", "TCP", "Permutations"]
 categories: ["project"]
 date: 2020-10-27T01:23:49+09:00
 

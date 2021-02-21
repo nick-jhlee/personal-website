@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Stochastic Optimization", "SGD", "SDE", "heavy-tail", "Lévy process"]
+tags: ["Stochastic Optimization", "SGD", "SDE", "Probability Theory", "Heavy-tail"]
 
 # Is this a featured talk? (true/false)
 featured: false

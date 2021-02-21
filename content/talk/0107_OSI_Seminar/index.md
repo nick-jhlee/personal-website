@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Batch normalization", "SGD", "Deep learning", "Generalization", "Graphs", "GAN", "Sliced Probability Divergence"]
+tags: ["Batch normalization", "SGD", "Deep learning", "Generalization", "Graphs", "Probability Theory"]
 
 # Is this a featured talk? (true/false)
 featured: false
