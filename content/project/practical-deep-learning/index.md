@@ -2,10 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Connection between Optimization and the Deep Learning"
-summary: "Build a theory of explaining the (learning) dynamics of DNNs and related optimization algorithms, and show its practical implications"
+summary: "Build a theory of explaining the (learning) dynamics of DNNs and  optimization algorithms, and explore its practical implications"
 authors: ["admin"]
 tags: ["Deep Learning", "Generalization", "Stochastic Optimization", "Probability Theory"]
 categories: ["project"]
+collaborators: ["Cheolhyoung Lee", "Se-Young Yun"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).

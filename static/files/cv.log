@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.15)  22 JAN 2021 04:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.15)  6 MAR 2021 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -324,27 +324,27 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--265
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--279
+Underfull \hbox (badness 10000) in paragraph at lines 274--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--284
+Underfull \hbox (badness 10000) in paragraph at lines 282--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--289
+Underfull \hbox (badness 10000) in paragraph at lines 287--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--298
+Underfull \hbox (badness 10000) in paragraph at lines 293--300
 
  []
 
@@ -422,7 +422,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 299--303
+Underfull \hbox (badness 10000) in paragraph at lines 301--305
 
  []
 
@@ -496,7 +496,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Overfull \hbox (0.97818pt too wide) in paragraph at lines 395--398
+Overfull \hbox (0.97818pt too wide) in paragraph at lines 397--400
 []\T1/cmr/m/n/9 Junseok Choi, Miny-oung Hwang, \T1/cmr/bx/n/9 Junghyun Lee \T1/
 cmr/m/n/9 ``Semi-Supervised Learn-ing Task on Naver Fash-ion Dataset",
  []
@@ -508,18 +508,6 @@ Non-PDF special ignored!
 <special> color push rgb 0.4 0.4 0.4
 Non-PDF special ignored!
 <special> color pop
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
@@ -619,15 +607,31 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 583.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 583.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 583.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 583.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 583.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 585.
  ) 
 Here is how much of TeX's memory you used:
  5252 strings out of 492616
@@ -636,7 +640,7 @@ Here is how much of TeX's memory you used:
  9096 multiletter control sequences out of 15000+600000
  14450 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,11n,43p,333b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,11n,43p,333b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
 ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2018/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2018/texmf-dist/f
@@ -649,7 +653,7 @@ c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive
 f-dist/fonts/type1/public/cm-super/sfti0900.pfb><c:/texlive/2018/texmf-dist/fon
 ts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
 ublic/cm-super/sftt0900.pfb>
-Output written on cv.pdf (4 pages, 206503 bytes).
+Output written on cv.pdf (4 pages, 206740 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

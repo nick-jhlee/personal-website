@@ -1,11 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fair PCA via optimization over Stiefel manifold"
-summary: "A novel Stiefel manifold optimization based algorithm for fair PCA (Olfat&Aswani, 2019)"
+title: "Can Fairness in Principal Components be Obtained, Even in High Dimensions?"
+summary: "A novel Stiefel manifold optimization based algorithm for fair PCA that has several benefits over the existing SDP-based algorithm."
 authors: ["admin"]
 tags: ["Machine Learning", "Fairness", "PCA", "Manifold Optimization"]
 categories: ["project"]
+collaborators: ["Matt Olfat", "Chang D. Yoo", "Gwangsu Kim"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).

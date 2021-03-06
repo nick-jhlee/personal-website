@@ -5,10 +5,10 @@ avatar_filename: profile-pic-1.jpg
 bio: Pursuing BS in Math/CS at KAIST. Interested in ML/DL + related mathematical theories, graphs, fairness, various applications...etc.
 interests:
   - (Theoretical) ML/DL
-  - Related mathematical theories
+  - Related mathematical theories (e.g. statistics)
   - GNN, Graphs
   - Various applications of ML/DL
-  - Fairness
+  - Fairness, Privacy
   - Other fields of mathematics (e.g. graph theory)
 social:
   - link: https://scholar.google.com/citations?user=sYtSnnQAAAAJ&hl=en
