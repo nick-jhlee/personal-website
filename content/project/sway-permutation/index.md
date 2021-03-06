@@ -4,9 +4,9 @@
 title: "SWAY for Decision Space of Permutations"
 summary: "Extend SWAY (Chen et al., 2016) to the space of permutations and test its efficacy on TCP."
 authors: ["admin"]
-tags: ["SBSE", "SWAY", "TCP", "Permutations"]
+tags: ["SBSE", "SWAY", "TCP"]
 categories: ["project"]
-collaborators = ["Chani Jung", "Yoo Hwa Park", "Dongmin Lee", "Juyeon Yoon", "Shin Yoo"]
+collaborators: ["Chani Jung", "Yoo Hwa Park", "Dongmin Lee", "Juyeon Yoon", "Shin Yoo"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
