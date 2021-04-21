@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SWAY for Decision Space of Permutations"
-summary: "Extend SWAY (Chen et al., 2016) to the space of permutations and test its efficacy on TCP."
+summary: "Extend SWAY (Chen et al., 2016) to the space of permutations by proposing a new Euclidean embedding of permutations."
 authors: ["admin"]
 tags: ["SBSE", "SWAY", "TCP"]
 categories: ["project"]

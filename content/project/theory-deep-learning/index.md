@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Can Fairness in Principal Components be Obtained, Even in High Dimensions?"
-summary: "Proposes a novel Stiefel manifold optimization based algorithm for fair PCA that has several benefits over the existing SDP-based algorithm."
+title: "Theory of Deep Learning"
+summary: "Aim to make novel theoretical discoveries regarding the (learning) dynamics of DNNs and optimization algorithms, and if possible, explore their practical implications"
 authors: ["admin"]
-tags: ["Machine Learning", "Fairness", "PCA", "Manifold Optimization"]
+tags: ["Deep Learning", "Generalization", "Stochastic Optimization", "Probability Theory"]
 categories: ["project"]
-collaborators: ["Matt Olfat", "Chang D. Yoo", "Gwangsu Kim"]
+collaborators: ["SeongYoon Kim", "Namgyu Ho", "Minchan Jeong", "Se-Young Yun"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
@@ -42,3 +42,4 @@ slides: ""
 ---
 
 (To be filled in...)
+

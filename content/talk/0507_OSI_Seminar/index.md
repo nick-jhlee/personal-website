@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Heavy-tail behaviour of SGD? - Part 1"
+title: "Landscape and training regimes in deep learning"
 event: OSI Lab Seminar
 event_url:
 location: Zoom
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: This talk introduces a rather new approach to analyzing SGD, from the perspective of heavy-tail behaviors. 
-abstract: One of the popular ways of analyzing the behavior of SGD and SGDm(SGD with momentum) is by considering it as a discretization of Langevin-type SDE. Up till 2019, it was widely assumed that the SGN has a finite variance, leading to the analysis of Brownian-driven SDE. Over the last 2 years, this finite variance assumption has been challenged (primarily by Prof. Umut Şimşekli) by claims that the SGN is actually heavy-tailed; as a consequence, the SDE of interest is actually driven by a Lévy motion. This talk gives a detailed overview of this new way of thinking about SGD/SGDm by going through some of the key papers(ICML2019, ICML2020, arXiv)+related papers.
+summary: This talk introduces the paper "Landscape and training regimes in deep learning", accepted for publication in the Physics Report.
+abstract: (to be filled in)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-14T14:30:00+09:00
-date_end: 2020-08-14T16:30:00+09:00
+date: 2021-05-07T14:30:00+09:00
+date_end: 2021-05-07T16:30:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Stochastic Optimization", "SGD", "SDE", "Probability Theory", "Heavy-tail"]
+tags: ["GNN"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -68,6 +68,5 @@ projects: ["theory-deep-learning"]
 ---
 
 Papers discussed in the talk:
-- **Main:** Şimşekli, U., Sagun, L., and Gürbüzbalaban, M. A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks. In *ICML*, 2019.
-- Şimşekli, U. Fractional Langevin Monte Carlo: Exploring Lévy Driven Stochastic Differential Equations for Markov Chain Monte Carlo. In *ICML*, 2017.
-- Şimşekli, U., Zhu, L., Teh, Y. W., and Gürbüzbalaban, M. Fractional Underdamped Langevin Dynamics: Retargeting SGD with Momentum under Heavy-Tailed Gradient Noise. In *ICML*, 2020.
+
+- **Main:** Geiger, M., Petrini, L., Wyart, M. (2021) "Landscape and training regimes in deep learning," *Physics Report*.
