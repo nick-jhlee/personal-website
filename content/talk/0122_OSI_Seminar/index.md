@@ -68,4 +68,4 @@ projects: []
 ---
 
 Papers discussed in the talk:
-- **Main"** Xu, K., Hu, W., Leskovec, J., Jegelka, S. How Powerful are Graph Neural Networks?. In *ICLR*, 2019. (*Oral!*)
+- **Main:** Xu, K., Hu, W., Leskovec, J., Jegelka, S. How Powerful are Graph Neural Networks?. In *ICLR*, 2019. (*Oral!*)

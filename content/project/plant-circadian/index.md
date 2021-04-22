@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Applying machine/deep learning to distribution inference of biological stochatic models"
+title: "Applying ML methodologies to infer the underlying model of plant circadian clocks"
 summary: ""
 authors: ["admin"]
-tags: ["Deep Learning", "Stochastic model", "Distribution inference"]
+tags: ["Machine Learning", "Stochastic Optimization", "Circadian Clock"]
 categories: ["project"]
-collaborators: ["Seokmin Ha", "Yun Min Song", "Hyukpyo Hong", "Dae Wook Kim", "Jae Kyoung Kim"]
+collaborators: ["Seokmin Ha", "Dae Wook Kim", "Jae Kyoung Kim"]
 date: 2021-03-01T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).

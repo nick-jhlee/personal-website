@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,56 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Undergraduate researcher"
+  company = "Optimization and Statistical Inference Lab (OSI Lab)"
+  company_url = "http://osi.kaist.ac.kr/"
+  location = "KAIST, Daejeon, South Korea"
+  date_start = "2020-03-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
+
+  (Advised by Prof. [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho, Minchan Jeong)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergraduate researcher"
+  company = "Artificial Intelligence & Machine Learning Lab (AIM Lab)"
+  company_url = "https://slsp.kaist.ac.kr/xe/"
+  location = "KAIST, Daejeon, South Korea"
+  date_start = "2019-12-01"
+  date_end = ""
+  description = """
+  Principal investigator for developing a scalable fair PCA algorithm via Stiefel manifold optimization.
+  Work currently under review for ICML 2021.
+
+  (Advised by Prof. Chang D. Yoo and Prof. Gwangsu Kim, Joint work with Matt Olfat)
+  """
+
+[[experience]]
+  title = "Undergraduate researcher"
+  company = "Biomedical Mathematics Group (BIMAG)"
+  company_url = "https://www.ibs.re.kr/bimag/"
+  location = "IBS/KAIST, Daejeon, South Korea"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """
+  Principal investigator for applying machine learning methodologies to infer the underlying dynamical model of plant circadian clocks.
+
+  (Advised by Prof. Jae Kyoung Kim, Joint work with Seokmin Ha and Dae Wook Kim)
+  """
+
+[[experience]]
+  title = "Undergraduate researcher"
+  company = "Computational Intelligence for Software Engineering Lab (COINSE Lab)"
+  company_url = "https://coinse.kaist.ac.kr/"
+  location = "KAIST, Daejeon, South Korea"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """
+  Principal investigator for extending SWAY (Chen et al., 2016) to the space of permutations via a novel and theoretically well-motivated Euclidean embedding.
+
+  (Advised by Prof. Shin Yoo, Joint work with Chani Jung, Yoo Hwa Park, Dongmin Lee, Juyeon Yoon)
+  """
 
 +++
