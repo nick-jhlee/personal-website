@@ -4,7 +4,7 @@
 title: "Introduction to Bayesian ML/DL, with Application to Parameter Inference of Coupled Non-linear ODEs - Part 1"
 event: BIMAG Journal Club
 event_url:
-location: IBS BIMAG
+location: IBS headquarters
 address:
   street:
   city:
@@ -12,8 +12,7 @@ address:
   postcode:
   country:
 summary: In this talk, we cover the basics of Gaussian proces and its application to parameter inference of coupled non-linear ODEs.
-abstract: Gaussian process(GP) is a stochastic process such that the joint distribution of arbitrary finite subset of the random variables is a multivariate normal. It plays a fundamental role in Bayesian machine learning as it can be interpreted as a prior over functions (Rasmussen and Williams, 2006), hence providing a nonparametric approach to various tasks. In the first part, I will introduce the general framework of GP and some underlying theory, accompanied by a typical example: GP regression, also known as Kringing.
-In the second part, I will introduce some recent works on applying GP to parameter inference of coupled non-linear ODEs arising in various biological contexts.
+abstract: Gaussian process(GP) is a stochastic process such that the joint distribution of arbitrary finite subset of the random variables is a multivariate normal. It plays a fundamental role in Bayesian machine learning as it can be interpreted as a prior over functions (Rasmussen and Williams, 2006), hence providing a nonparametric approach to various tasks. In the first part, I will introduce the general framework of GP and some underlying theory, accompanied by a typical example: GP regression, also known as Kringing. In the second part, I will introduce some recent works on applying GP to parameter inference of coupled non-linear ODEs arising in various biological contexts.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
