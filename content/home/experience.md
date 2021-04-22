@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   Principal investigator for developing a scalable fair PCA algorithm via Stiefel manifold optimization.
   Work currently under review for ICML 2021.
 
-  (Advised by Prof. Chang D. Yoo and Prof. Gwangsu Kim, Joint work with Matt Olfat)
+  (Advised by Prof. Chang Dong Yoo and Prof. Gwangsu Kim, Joint work with Matt Olfat)
   """
 
 [[experience]]
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for applying machine learning methodologies to infer the underlying dynamical model of plant circadian clocks.
 
-  (Advised by Prof. Jae Kyoung Kim, Joint work with Seokmin Ha and Dae Wook Kim)
+  (Advised by Prof. [Jae Kyoung Kim](mathsci.kaist.ac.kr/~jaekkim/), Joint work with Seokmin Ha and Dae Wook Kim)
   """
 
 [[experience]]
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for extending SWAY (Chen et al., 2016) to the space of permutations via a novel and theoretically well-motivated Euclidean embedding.
 
-  (Advised by Prof. Shin Yoo, Joint work with Chani Jung, Yoo Hwa Park, Dongmin Lee, Juyeon Yoon)
+  (Advised by Prof. [Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/), Joint work with Chani Jung, Yoo Hwa Park, Dongmin Lee, Juyeon Yoon)
   """
 
 +++
