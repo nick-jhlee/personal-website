@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Stochastic Optimization", "SGD", "SDE", "Heavy-tail", "Generalization", "Probability Theory"]
+tags: ["Stochastic Optimization", "SGD", "Generalization", "Probability Theory", "Statistical Physics"]
 
 # Is this a featured talk? (true/false)
 featured: false

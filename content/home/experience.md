@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   Principal investigator for developing a scalable fair PCA algorithm via Stiefel manifold optimization.
   Work currently under review for ICML 2021.
 
-  (Advised by Prof. Chang Dong Yoo and Prof. Gwangsu Kim, Joint work with Matt Olfat)
+  (Advised by Prof. [Chang Dong Yoo](https://slsp.kaist.ac.kr/xe/index.php?mid=bio) and Prof. [Gwangsu Kim](https://slsp.kaist.ac.kr/xe/index.php?mid=Visiting_Scholars), Joint work with Matt Olfat)
   """
 
 [[experience]]
