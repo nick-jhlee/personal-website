@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Stochastic Optimization", "SGD", "Probability Theory", "Statistical Physics"]
+tags: ["Deep Learning", "Stochastic Optimization", "SGD", "Probability Theory", "Statistical Physics"]
 
 # Is this a featured talk? (true/false)
 featured: false

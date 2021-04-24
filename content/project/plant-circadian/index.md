@@ -4,7 +4,7 @@
 title: "Applying ML methodologies to infer the underlying model of plant circadian clocks"
 summary: ""
 authors: ["admin"]
-tags: ["Machine Learning", "Stochastic Optimization", "Circadian Clock"]
+tags: ["Machine Learning", "Bayesian Inference", "ODE", "Circadian Clock"]
 categories: ["project"]
 collaborators: ["Seokmin Ha", "Dae Wook Kim", "Jae Kyoung Kim"]
 date: 2021-03-01T01:23:49+09:00
