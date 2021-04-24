@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Applying ML methodologies to infer the underlying model of plant circadian clocks"
+title: "Applying ML methodologies to model inference of plant circadian clocks"
 summary: ""
 authors: ["admin"]
 tags: ["Machine Learning", "Bayesian Inference", "ODE", "Circadian Clock"]
