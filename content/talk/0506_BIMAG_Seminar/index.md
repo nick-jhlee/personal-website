@@ -4,14 +4,14 @@
 title: "Introduction to Bayesian ML/DL, with Application to Parameter Inference of Coupled Non-linear ODEs - Part 2"
 event: BIMAG Journal Club
 event_url:
-location: IBS BIMAG
+location: IBS headquarters
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: In this talk, we cover the basics of variational inference and its application to parameter inference of coupled non-linear ODEs.
+summary: This talk covers the basics of variational inference and and some recent advances in its application to parameter inference of coupled non-linear ODEs.
 abstract: The problem of approximating the posterior distribution (or density estimation in general) is a crucial problem in Bayesian statistics, in which intractable integrals often become the computational bottleneck. MCMC sampling is the most widely used family of algorithms for approximating posteriors. However, if the underlying graphical model is too complex or the data is in very high dimensions, then such sampling-based methodologies run into several problems. Variational inference (Jordan et al., 1999; Wainwright and Jordan, 2008) is a family of machine learning methodologies that transforms the problem of approximating posterior densities to an optimization, which lets us circumvent all such problems. In the first part, I will introduce the general framework of variational inference and some underlying theory, accompanied by an illustrative example of LDA (Blei et al., 2003). In the second part, I will introduce some recent works on applying variational inference to parameter inference of coupled non-linear ODEs arising in various biological contexts.
 
 # Talk start and end times.

@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: This talk covers 4 NeurIPS 2020 papers (all of which are theory-heavy), that I thought were interesting, whose topics were not covered by anyone in OSI Lab.
+summary: This talk introduces 4 NeurIPS 2020 papers (all of which are theory-heavy) that I thought were interesting, whose topics were not covered by anyone in OSI Lab.
 abstract: First 2 papers are directly related to my current research topic of uncovering the inner working of deep learning in general. First paper by Daneshmand et al. gives a rigorous proof that characterizes the effect of batch normalization(BN) in deep linear networks; BN preserves the rank of hidden representation, whose lower bound is dependent on the width of the network and independent of the depth. Second paper by Maennel et al. theoretically and empirically confirms that the first layer of the neural network learns the first principal component of the input data, when trained with random labels. Third paper by Rubin-Delanchy gives a first theoretical characterization of the so-called manifold-hypothesis by proving that a manifold structure, whose Hausdorff dimension is given explicitly, is sure to arise in spectral embedding of latent position model. Fourth paper by Nadjahi et al. gives a full theoretical characterization of the recently-introduced sliced probability divergences. Topological characterizations include metric properties and convergence properties while statistical characterizations include sample complexity and projection complexity.
 
 

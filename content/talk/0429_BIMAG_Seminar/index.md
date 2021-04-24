@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: In this talk, we cover the basics of Gaussian proces and its application to parameter inference of coupled non-linear ODEs.
+summary: This talk covers the basics of Gaussian process(GP) and some recent advances in its application to parameter inference of coupled non-linear ODEs.
 abstract: Gaussian process(GP) is a stochastic process such that the joint distribution of arbitrary finite subset of the random variables is a multivariate normal. It plays a fundamental role in Bayesian machine learning as it can be interpreted as a prior over functions (Rasmussen and Williams, 2006), hence providing a nonparametric approach to various tasks. In the first part, I will introduce the general framework of GP and some underlying theory, accompanied by an illustrative example of GP regression, also known as Kringing. In the second part, I will introduce some recent works on applying GP to parameter inference of coupled non-linear ODEs arising in various biological contexts.
 
 # Talk start and end times.

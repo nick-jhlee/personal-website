@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: This talk introduces a rather new approach to analyzing SGD, from the perspective of heavy-tail behaviors. 
+summary: This talk introduces a recent line of works that propose to analyze SGD under heavy-tail noise assumptions. 
 abstract: One of the popular ways of analyzing the behavior of SGD and SGDm(SGD with momentum) is by considering it as a discretization of Langevin-type SDE. Up till 2019, it was widely assumed that the SGN has a finite variance, leading to the analysis of Brownian-driven SDE. Over the last 2 years, this finite variance assumption has been challenged (primarily by Prof. Umut Şimşekli) by claims that the SGN is actually heavy-tailed; as a consequence, the SDE of interest is actually driven by a Lévy motion. This talk gives a detailed overview of this new way of thinking about SGD/SGDm by going through some of the key papers(ICML2019, ICML2020, arXiv)+related papers.
 
 # Talk start and end times.
