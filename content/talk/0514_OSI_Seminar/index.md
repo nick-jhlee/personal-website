@@ -16,8 +16,8 @@ abstract: Deep learning algorithms are responsible for a technological revolutio
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-07T14:30:00+09:00
-date_end: 2021-05-07T16:30:00+09:00
+date: 2021-05-14T14:30:00+09:00
+date_end: 2021-05-14T16:30:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).

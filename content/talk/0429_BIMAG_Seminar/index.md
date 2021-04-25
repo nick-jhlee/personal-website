@@ -69,7 +69,7 @@ projects: ["plant-circadian"]
 
 
 References for GP:
-- **Gaussian Processes for Machine Learning (C. E. Rasmussen and Chris Williams, the MIT press, 2006)**
+- **Gaussian Processes for Machine Learning (C. E. Rasmussen and C. K. I. Williams, the MIT press, 2006)**
 
 
 References for GP-based ODE Parameter Inference:
