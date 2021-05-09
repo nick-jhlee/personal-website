@@ -6,7 +6,7 @@ summary: "Aim to make novel theoretical discoveries regarding the (learning) dyn
 authors: ["admin"]
 tags: ["Deep Learning", "Generalization", "Stochastic Optimization", "Probability Theory"]
 categories: ["project"]
-collaborators: ["SeongYoon Kim", "Namgyu Ho", "Minchan Jeong", "Se-Young Yun"]
+collaborators: ["SeongYoon Kim", "Namgyu Ho", "Se-Young Yun"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).

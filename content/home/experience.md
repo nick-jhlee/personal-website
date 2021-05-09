@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
 
-  (Advised by Prof. [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho, Minchan Jeong)
+  (Advised by Prof. [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho)
   """
 
 [[experience]]

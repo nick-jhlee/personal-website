@@ -12,12 +12,12 @@ address:
   postcode:
   country:
 summary: This talk covers the basics of variational inference and and some recent advances in its application to parameter inference of coupled non-linear ODEs.
-abstract: The problem of approximating the posterior distribution (or density estimation in general) is a crucial problem in Bayesian statistics, in which intractable integrals often become the computational bottleneck. MCMC sampling is the most widely used family of algorithms for approximating posteriors. However, if the underlying graphical model is too complex or the data is in very high dimensions, then such sampling-based methodologies run into several problems. Variational inference (Jordan et al., 1999; Wainwright and Jordan, 2008) is a family of machine learning methodologies that transforms the problem of approximating posterior densities to an optimization, which lets us circumvent all such problems. In the first part, I will introduce the general framework of variational inference and some underlying theory, accompanied by an illustrative example of LDA (Blei et al., 2003). In the second part, I will introduce some recent works on applying variational inference to parameter inference of coupled non-linear ODEs arising in various biological contexts.
+abstract: The problem of approximating the posterior distribution (or density estimation in general) is a crucial problem in Bayesian statistics, in which intractable integrals often become the computational bottleneck. MCMC sampling is the most widely used family of algorithms for approximating posteriors. However, if the underlying graphical model is too complex or the data is in very high dimensions, then such sampling-based methodologies run into several problems. Variational inference (Jordan et al., 1999; Wainwright and Jordan, 2008) is a family of machine learning methodologies that transforms the problem of approximating posterior densities to an optimization, which lets us circumvent all such problems. In the first part, I will introduce the general framework of variational inference and some underlying theory. In the second part, I will introduce some recent works on applying variational inference to parameter inference of coupled non-linear ODEs arising in various biological contexts.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-06T12:30:00+09:00
-date_end: 2021-05-06T14:00:00+09:00
+date: 2021-05-07T12:30:00+09:00
+date_end: 2021-05-07T14:00:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
