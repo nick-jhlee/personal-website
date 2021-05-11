@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Can Fairness in Principal Components be Obtained, Even in High Dimensions?"
+title: "Scalable Fair PCA via Stiefel Manifold Optimization (tbd)"
 summary: "Proposes a novel Stiefel manifold optimization based algorithm for fair PCA that has several benefits over the existing SDP-based algorithm."
 authors: ["admin"]
 tags: ["Machine Learning", "Fairness", "PCA", "Manifold Optimization"]

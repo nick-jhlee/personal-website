@@ -38,8 +38,7 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = """
-  Principal investigator for developing a scalable fair PCA algorithm via Stiefel manifold optimization.
-  Work currently under review for ICML 2021.
+  Principal investigator for developing efficient and fair dimensionality reduction algorithms.
 
   (Advised by Prof. [Chang Dong Yoo](https://slsp.kaist.ac.kr/xe/index.php?mid=bio) and Prof. [Gwangsu Kim](https://slsp.kaist.ac.kr/xe/index.php?mid=Visiting_Scholars), Joint work with Matt Olfat)
   """
