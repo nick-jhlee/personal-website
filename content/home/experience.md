@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Optimization and Statistical Inference Lab (OSI Lab)"
   company_url = "http://osi.kaist.ac.kr/"
   location = "KAIST, Daejeon, South Korea"
-  date_start = "2020-03-1"
+  date_start = "2020-03-01"
   date_end = "2021-08-31"
   description = """
   Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
