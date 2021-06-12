@@ -18,12 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "MSc candidate"
+  company = "Optimization and Statistical Inference Lab (OSI Lab)"
+  company_url = "http://osi.kaist.ac.kr/"
+  location = "KAIST, Daejeon, South Korea"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications.
+
+(Other topics to be added soon!)
+
+  (Advised by Prof. [Se-Young Yun](https://fbsqkd.github.io/))
+  """
+
+[[experience]]
   title = "Undergraduate researcher"
   company = "Optimization and Statistical Inference Lab (OSI Lab)"
   company_url = "http://osi.kaist.ac.kr/"
   location = "KAIST, Daejeon, South Korea"
-  date_start = "2020-03-01"
-  date_end = ""
+  date_start = "2020-03-1"
+  date_end = "2021-08-31"
   description = """
   Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
 
