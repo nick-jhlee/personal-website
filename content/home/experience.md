@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for applying machine learning methodologies to infer the underlying dynamical model of plant circadian clocks.
 
-  (Advised by [Jae Kyoung Kim](mathsci.kaist.ac.kr/~jaekkim/), Joint work with Seokmin Ha and Dae Wook Kim)
+  (Advised by [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/), Joint work with Seokmin Ha and Dae Wook Kim)
   """
 
 [[experience]]

@@ -44,7 +44,7 @@ education:
 email: jh_lee00@kaist.ac.kr
 superuser: true
 ---
-I’m a MSc candidate at [OSI Lab](osi.kaist.ac.kr) in the [Graduate School of Artificial Intelligence (GSAI)](gsai.kaist.ac.kr) at KAIST. I'm fortunate to be advised by [Se-Young Yun](fbsqkd.github.io). I completed my BSc in Mathematical Sciences and Computer Science (double major) at KAIST, where I worked with 4 research groups. (See 'Experience' below)
+I’m a MSc candidate at [OSI Lab](http://osi.kaist.ac.kr/) in the [Graduate School of Artificial Intelligence (GSAI)](http://gsai.kaist.ac.kr) at KAIST. I'm fortunate to be advised by [Se-Young Yun](https://fbsqkd.github.io/). I completed my BSc in Mathematical Sciences and Computer Science (double major) at KAIST, where I worked with 4 research groups. (See 'Experience' below)
 
 My interests range over the whole field of ML/DL with emphasis on their theoretical aspects + related mathematical theories, and their various applications. My other interests include, but are not limited to, probabilistic(Bayesian) ML/DL, graphs, algorithmic fairness, "other" areas of mathematics.
 
