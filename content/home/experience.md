@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "MSc candidate"
+  company = "Optimization and Statistical Inference Lab (OSI Lab)"
+  company_url = "http://osi.kaist.ac.kr/"
+  location = "GSAI Hongreung Campus, Seoul, South Korea"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
+
+  (other topics to be added soon...)
+
+  (Advised by [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho)
+  """
+
+[[experience]]
   title = "Undergraduate researcher"
   company = "Optimization and Statistical Inference Lab (OSI Lab)"
   company_url = "http://osi.kaist.ac.kr/"
@@ -27,7 +42,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
 
-  (Advised by Prof. [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho)
+  (Advised by [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho)
   """
 
 [[experience]]
@@ -40,7 +55,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for developing efficient and fair dimensionality reduction algorithms.
 
-  (Advised by Prof. [Chang Dong Yoo](https://slsp.kaist.ac.kr/xe/index.php?mid=bio) and Prof. [Gwangsu Kim](https://slsp.kaist.ac.kr/xe/index.php?mid=Visiting_Scholars), Joint work with Matt Olfat)
+  (Advised by [Chang Dong Yoo](https://slsp.kaist.ac.kr/xe/index.php?mid=bio) and [Gwangsu Kim](https://slsp.kaist.ac.kr/xe/index.php?mid=Visiting_Scholars), Joint work with Matt Olfat)
   """
 
 [[experience]]
@@ -53,7 +68,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for applying machine learning methodologies to infer the underlying dynamical model of plant circadian clocks.
 
-  (Advised by Prof. [Jae Kyoung Kim](mathsci.kaist.ac.kr/~jaekkim/), Joint work with Seokmin Ha and Dae Wook Kim)
+  (Advised by [Jae Kyoung Kim](mathsci.kaist.ac.kr/~jaekkim/), Joint work with Seokmin Ha and Dae Wook Kim)
   """
 
 [[experience]]
@@ -66,7 +81,7 @@ date_format = "Jan 2006"
   description = """
   Principal investigator for extending SWAY (Chen et al., 2016) to the space of permutations via a novel and theoretically well-motivated Euclidean embedding.
 
-  (Advised by Prof. [Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/), Joint work with Chani Jung, Yoo Hwa Park, Dongmin Lee, Juyeon Yoon)
+  (Advised by [Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/), Joint work with Chani Jung, Yoo Hwa Park, Dongmin Lee, Juyeon Yoon)
   """
 
 +++
