@@ -21,13 +21,13 @@ date_format = "Jan 2006"
   title = "MSc candidate"
   company = "Optimization and Statistical Inference Lab (OSI Lab)"
   company_url = "http://osi.kaist.ac.kr/"
-  location = "KAIST, Daejeon, South Korea"
+  location = "GSAI Seoul Campus, Seoul, South Korea"
   date_start = "2021-09-01"
   date_end = ""
   description = """
   Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications.
 
-(Other topics to be added soon!)
+  (Other topics to be added soon!)
 
   (Advised by Prof. [Se-Young Yun](https://fbsqkd.github.io/))
   """
