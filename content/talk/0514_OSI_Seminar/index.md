@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Deep Learning", "Statistical Physics", "Loss Landscape", "Stochastic Optimization"]
+tags: ["Statistical Physics", "Loss Surface", "Stochastic Optimization"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -64,7 +64,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["theory-deep-learning"]
+projects: ["loss-surface"]
 ---
 
 Papers discussed in the talk:

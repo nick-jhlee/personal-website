@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ML-based inference of plant circadian clock model"
-summary: "Use variational inference-based approach for ODEs (Ghosh et al., AISTATS'21) to infer the parameters of plant circadian clock model."
+title: "Analysis of (bad) initialization in loss surface of DNN"
+summary: "Provide theoretical explanation for the existence of bad initialization in DNNs (Liu et al., NIPS'21) and possibly make new discoveries regarding (negative) inductive bias of SGD"
 authors: ["admin"]
-tags: ["Bayesian Inference", "ODE", "Circadian Clock"]
+tags: ["Loss Surface", "Generalization", "Stochastic Optimization", "Statistical Physics", "Probability Theory"]
 categories: ["project"]
-collaborators: ["Seokmin Ha", "Dae Wook Kim", "Jae Kyoung Kim"]
-date: 2021-03-01T01:23:49+09:00
+collaborators: ["SeongYoon Kim", "Namgyu Ho", "Se-Young Yun"]
+date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

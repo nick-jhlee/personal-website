@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SWAY for Decision Space of Permutations"
+title: "SWAY for decision space of permutations"
 summary: "Extend SWAY (Chen et al., 2016) to the space of permutations by proposing a new Euclidean embedding of permutations."
 authors: ["admin"]
-tags: ["SBSE", "SWAY", "TCP"]
+tags: ["SBSE", "TCP"]
 categories: ["project"]
 collaborators: ["Chani Jung", "Yoo Hwa Park", "Dongmin Lee", "Juyeon Yoon", "Shin Yoo"]
 date: 2020-10-27T01:23:49+09:00

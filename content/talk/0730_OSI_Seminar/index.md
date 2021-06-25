@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Heavy-tail behaviour of SGD - Part 2"
+title: "Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates"
 event: OSI Lab Seminar
 event_url:
 location: Zoom
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: This talk continues from Part 1, focusing more on the implication of such heavy-tailed theories of SGD to generalization and its origin.
-abstract: Part 1 was about introducing reasons of why heavy-tailed model should be used to describe the SGD dynamics. This talk(Part 2) gives a from-ground talk on necessary mathematical background, and most importantly, **where the heavy-tailedness comes from.** If time allows, we shall also look at how Hausdorff dimension of the path of SGD is directly related to the **generalization capability**. On the way, various papers (ICML2019, ICML2020, NIPS2020, arXiv) will be briefly introduced.
+summary: This talk introduces the paper "Poisson Learning - Graph Based Semi-Supervised Learning At Very Low Label Rates" (Calder et al., ICML'20).
+abstract: We propose a new framework, called Poisson learning, for graph based semi-supervised learning at very low label rates. Poisson learning is motivated by the need to address the degeneracy of Laplacian semi-supervised learning in this regime. The method replaces the assignment of label values at training points with the placement of sources and sinks, and solves the resulting Poisson equation on the graph. The outcomes are provably more stable and informative than those of Laplacian learning. Poisson learning is efficient and simple to implement, and we present numerical experiments showing the method is superior to other recent approaches to semi-supervised learning at low label rates on MNIST, FashionMNIST, and Cifar-10. We also propose a graph-cut enhancement of Poisson learning, called Poisson MBO, that gives higher accuracy and can incorporate prior knowledge of relative class sizes.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-06T14:30:00+09:00
-date_end: 2020-11-06T16:30:00+09:00
+date: 2021-07-30T14:30:00+09:00
+date_end: 2021-07-30T16:30:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Deep Learning", "Stochastic Optimization", "SGD", "Generalization", "Probability Theory", "Statistical Physics"]
+tags: ["Graphs", "Semi-Supervised Learning", "PDE Theory"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "Heavy-tail behavior of SGD, Part 2.pdf"
+url_slides:
 
 url_code:
 url_pdf:
@@ -64,10 +64,9 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["loss-surface"]
+projects: []
 ---
 
 Papers discussed in the talk:
-- **Main:** Gürbüzbalaban, M., Şimşekli, U., Zhu, L. The Heavy-Tail Phenomenon in SGD. In *arXiv*, 2020.
-- **Sub-main:** Şimşekli, U., Sener, O., Deligiannidis, G., Erdogdu, M. A. Hausdorff Dimension, Stochastic Differential Equations, and Generalization in Neural Networks. In *NIPS*, 2020. (*Spotlight paper!*)
-- Şimşekli, U., Gürbüzbalaban, M., Nguyen, T. H., Richard, G., Sagun, L. On the Heavy-Tailed Theory of Stochastic Gradient Descent for Deep Neural Networks. In *arXiv*, 2019.
+
+- **Main:** Calder, J., Cook, B., Thorpe, M., Slepčev, D. Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates. In *ICML*, 2020.

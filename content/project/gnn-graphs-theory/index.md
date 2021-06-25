@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scalable Fair PCA via Stiefel Manifold Optimization (tbd)"
-summary: "Proposes a novel Stiefel manifold optimization based algorithm for fair PCA that has several benefits over the existing SDP-based algorithm."
+title: "Extension of theoretical results for GNNs to graph-related tasks (tbd)"
+summary: "(tbd)"
 authors: ["admin"]
-tags: ["Machine Learning", "Fairness", "PCA", "Manifold Optimization"]
+tags: ["GNN", "Graphs"]
 categories: ["project"]
-collaborators: ["Matt Olfat", "Chang D. Yoo", "Gwangsu Kim"]
+collaborators: ["Seokmin Ha", "Se-Young Yun"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
@@ -42,3 +42,4 @@ slides: ""
 ---
 
 (To be filled in...)
+

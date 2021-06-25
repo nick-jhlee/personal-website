@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ML-based inference of plant circadian clock model"
-summary: "Use variational inference-based approach for ODEs (Ghosh et al., AISTATS'21) to infer the parameters of plant circadian clock model."
+title: "Applying/Developing ML methodologies for combinatorial optimization tasks (tbd)"
+summary: "(tbd)"
 authors: ["admin"]
-tags: ["Bayesian Inference", "ODE", "Circadian Clock"]
+tags: ["Combinatorial Optimization", "GNN", "Reinforcement Learning"]
 categories: ["project"]
-collaborators: ["Seokmin Ha", "Dae Wook Kim", "Jae Kyoung Kim"]
-date: 2021-03-01T01:23:49+09:00
+collaborators: ["Minu Kim", "Minchan Jeong", "Mingyu Kim", "Se-Young Yun"]
+date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.ecole.ai/2021/ml4co-competition/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,5 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-(To be filled in...)
-
+NeurIPS 2021 Competition: "Machine Learning for Combinatorial Optimization"

@@ -25,11 +25,8 @@ date_format = "Jan 2006"
   date_start = "2021-09-01"
   date_end = ""
   description = """
-  Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
 
-  (other topics to be added soon...)
-
-  (Advised by [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho)
+  See 'Projects' below. (Advisor: [Se-Young Yun](https://fbsqkd.github.io/))
   """
 
 [[experience]]
@@ -40,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = "2021-08-31"
   description = """
-  Principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
+  Joint principal investigator for theoretical deep learning; specifically, (learning) dynamics of DNNs and optimization algorithms, and if possible, their practical implications
 
   (Advised by [Se-Young Yun](https://fbsqkd.github.io/), Joint work with SeongYoon Kim, Namgyu Ho)
   """
@@ -51,9 +48,9 @@ date_format = "Jan 2006"
   company_url = "https://slsp.kaist.ac.kr/xe/"
   location = "KAIST, Daejeon, South Korea"
   date_start = "2019-12-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
-  Principal investigator for developing efficient and fair dimensionality reduction algorithms.
+  Principal investigator for developing efficient, fair dimensionality reduction algorithms.
 
   (Advised by [Chang Dong Yoo](https://slsp.kaist.ac.kr/xe/index.php?mid=bio) and [Gwangsu Kim](https://slsp.kaist.ac.kr/xe/index.php?mid=Visiting_Scholars), Joint work with Matt Olfat)
   """
@@ -64,9 +61,9 @@ date_format = "Jan 2006"
   company_url = "https://www.ibs.re.kr/bimag/"
   location = "IBS/KAIST, Daejeon, South Korea"
   date_start = "2021-01-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
-  Principal investigator for applying machine learning methodologies to infer the underlying dynamical model of plant circadian clocks.
+  Joint principal investigator for applying machine learning methodologies to infer the underlying dynamical model of plant circadian clocks.
 
   (Advised by [Jae Kyoung Kim](https://mathsci.kaist.ac.kr/~jaekkim/), Joint work with Seokmin Ha and Dae Wook Kim)
   """
@@ -77,9 +74,9 @@ date_format = "Jan 2006"
   company_url = "https://coinse.kaist.ac.kr/"
   location = "KAIST, Daejeon, South Korea"
   date_start = "2021-01-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
-  Principal investigator for extending SWAY (Chen et al., 2016) to the space of permutations via a novel and theoretically well-motivated Euclidean embedding.
+  Joint principal investigator for extending SWAY (Chen et al., 2016) to the space of permutations via a novel and theoretically well-motivated Euclidean embedding.
 
   (Advised by [Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/), Joint work with Chani Jung, Yoo Hwa Park, Dongmin Lee, Juyeon Yoon)
   """

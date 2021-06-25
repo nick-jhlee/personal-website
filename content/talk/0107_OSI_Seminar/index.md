@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Batch Normalization", "SGD", "Deep Learning", "Generalization", "Graphs", "Probability Theory"]
+tags: ["Batch Normalization", "Stochastic Optimization", "SGD", "Generalization", "Graphs", "Probability Theory"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: 
 
 url_code:
 url_pdf:
@@ -65,10 +65,10 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["theory-deep-learning"]
+projects: ["loss-surface"]
 ---
 
-Last 2 papers aren't related to my current topics, but they are expected to be in short time ;)
+As of now, the last 2 papers aren't related to my current research topics, but they are expected to be in short time ;)
 
 Papers discussed in the talk:
 - Daneshmand, H., Kohler, J., Bach, F., Hofmann, T., Lucchi, A. Batch normalization provably avoids rank collapse for randomly initialized deep networks. In *NeurIPS*, 2020.

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Theory of Deep Learning"
-summary: "Aim to make novel theoretical discoveries regarding the (learning) dynamics of DNNs and optimization algorithms, and if possible, explore their practical implications"
+title: "Fair PCA via optimization over Stiefel manifold (tbd)"
+summary: "Proposes a novel Stiefel manifold optimization based algorithm for fair PCA (Olfat&Aswani, AAAI'19) that has several benefits over the existing SDP-based algorithm."
 authors: ["admin"]
-tags: ["Deep Learning", "Generalization", "Stochastic Optimization", "Probability Theory"]
+tags: ["Fairness", "PCA", "Manifold Optimization"]
 categories: ["project"]
-collaborators: ["SeongYoon Kim", "Namgyu Ho", "Se-Young Yun"]
+collaborators: ["Gwangsu Kim", "Matt Olfat", "Chang D. Yoo"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
@@ -42,4 +42,3 @@ slides: ""
 ---
 
 (To be filled in...)
-

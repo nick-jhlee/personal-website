@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Machine Learning", "Bayesian Inference", "Gaussian Process", "ODE"]
+tags: ["Bayesian Inference", "Gaussian Process", "ODE"]
 
 # Is this a featured talk? (true/false)
 featured: false

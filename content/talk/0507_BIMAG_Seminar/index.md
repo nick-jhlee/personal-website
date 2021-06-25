@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-10-27T01:47:47+09:00
 
 authors: []
-tags: ["Machine Learning", "Bayesian Inference", "Variational Inference", "ODE"]
+tags: ["Bayesian Inference", "Variational Inference", "ODE"]
 
 # Is this a featured talk? (true/false)
 featured: false
