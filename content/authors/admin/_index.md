@@ -2,7 +2,7 @@
 title: Junghyun Lee
 role: MSc candidate (graduate researcher)
 avatar_filename: profile-pic-1.jpg
-bio: MSc candidate at OSI Lab in GSAI at KAIST, advised by Se-Young Yun. Interested in theoretical ML/DL + related mathematical theories, probabilistic ML/DL, graphs, algorithmic fairness, various applications, "other" mathematics...etc.
+bio: MSc candidate at OSI Lab, GSAI, KAIST, advised by Se-Young Yun. Interested in theoretical/probabilistic ML/DL + related mathematical theories, graphs, algorithmic fairness, various applications, "other" mathematics...etc.
 interests:
   - Theoretical ML/DL
   - Probabilistic ML/DL

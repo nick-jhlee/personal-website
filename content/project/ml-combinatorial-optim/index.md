@@ -10,7 +10,7 @@ collaborators: ["Minu Kim", "Minchan Jeong", "Mingyu Kim", "Se-Young Yun"]
 date: 2020-10-27T01:23:49+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.ecole.ai/2021/ml4co-competition/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-NeurIPS 2021 Competition: "Machine Learning for Combinatorial Optimization"
+NeurIPS 2021 Competition: "Machine Learning for Combinatorial Optimization" (https://www.ecole.ai/2021/ml4co-competition/)
