@@ -41,5 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-(To be filled in...)
-
+Accepted to SSBSE 2021 (More details to come!)

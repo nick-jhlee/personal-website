@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.17)  1 JUL 2021 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.17)  11 JUL 2021 18:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -513,27 +513,27 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 435--439
+Underfull \hbox (badness 10000) in paragraph at lines 433--437
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--444
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--453
+Underfull \hbox (badness 10000) in paragraph at lines 443--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 454--458
+Underfull \hbox (badness 10000) in paragraph at lines 452--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--466
+Underfull \hbox (badness 10000) in paragraph at lines 457--464
 
  []
 
@@ -603,7 +603,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 544--547
+Underfull \hbox (badness 10000) in paragraph at lines 542--545
 
  []
 
@@ -697,19 +697,19 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 642.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 642.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 642.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 642.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 642.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 640.
  ) 
 Here is how much of TeX's memory you used:
- 5258 strings out of 492616
- 76446 string characters out of 6129481
- 172032 words of memory out of 5000000
+ 5259 strings out of 492616
+ 76457 string characters out of 6129481
+ 173032 words of memory out of 5000000
  9104 multiletter control sequences out of 15000+600000
  16892 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -731,10 +731,10 @@ exmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2019/texmf
 -dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2019/texmf-d
 ist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on cv.pdf (4 pages, 269397 bytes).
+Output written on cv.pdf (4 pages, 268713 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
